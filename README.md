@@ -4,14 +4,14 @@ This form will collect details of various candidates showing their interest, tra
 
 ## Table of Content
 
-- [Table - A Test table with merged cells](#table-atesttablewithmergedcellss)
-- [Table of Content](#tableofcontent)
-    - [Project Task](#projecttask)
+- [Table - A Test table with merged cells](#table---atest-table-with-merged-cells)
+- [Table of Content](#table-of-content)
+    - [Project Task](#project-task)
     - [Links](#links)
-    - [My Process](#myProcess)
-        - [Built With](#builtwith)
-        - [What I learned](#whatilearned)
-        - [Useful Resources](#usefulresources)
+    - [My Process](#my-Process)
+        - [Built With](#built-with)
+        - [What I learned](#what-i-learned)
+        - [Useful Resources](#useful-resources)
         - [Author](#Author)
         - [Acknowledgement](#acknowledgement)
 
